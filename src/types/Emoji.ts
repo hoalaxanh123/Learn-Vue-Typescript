@@ -1,0 +1,15 @@
+export type Emoji =
+  | "confused"
+  | "cool"
+  | "crying"
+  | "grinning"
+  | "happy"
+  | "heart"
+  | "laugh"
+  | "sad"
+  | "shocked"
+  | "smiling"
+  | "smiling-with-eyes"
+  | "surprise"
+  | "wink"
+  | "worried";
